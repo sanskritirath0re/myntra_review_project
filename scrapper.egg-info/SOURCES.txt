@@ -1,0 +1,5 @@
+setup.py
+scrapper.egg-info/PKG-INFO
+scrapper.egg-info/SOURCES.txt
+scrapper.egg-info/dependency_links.txt
+scrapper.egg-info/top_level.txt
